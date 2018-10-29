@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <!-- Changelog -->
+ <id>https://hg.python.org/coc/</id>
+ <link rel="self" href="https://hg.python.org/coc/atom-log"/>
+ <link rel="alternate" href="https://hg.python.org/coc/"/>
+ <title>coc Changelog</title>
+ <updated>2013-11-01T22:18:51-05:00</updated>
+
+ <entry>
+  <title>[default] Add the Creative Commons Zero license, as approved in the 1 November 2013 vote by the Python Software Foundation's board of directors.</title>
+  <id>https://hg.python.org/coc/#changeset-290aaa8fe78dc61b0f811c7ca2aa660cb9e4f6c9</id>
+  <link href="https://hg.python.org/coc/rev/290aaa8fe78d"/>
+  <author>
+   <name>Brian Curtin</name>
+   <email>&#98;&#114;&#105;&#97;&#110;&#64;&#112;&#121;&#116;&#104;&#111;&#110;&#46;&#111;&#114;&#103;</email>
+  </author>
+  <updated>2013-11-01T22:18:51-05:00</updated>
+  <published>2013-11-01T22:18:51-05:00</published>
+  <content type="xhtml">
+   <table xmlns="http://www.w3.org/1999/xhtml">
+    <tr>
+     <th style="text-align:left;">changeset</th>
+     <td>290aaa8fe78d</td>
+    </tr>
+    <tr>
+     <th style="text-align:left;">branch</th>
+     <td>default</td>
+    </tr>
+    <tr>
+     <th style="text-align:left;">bookmark</th>
+     <td></td>
+    </tr>
+    <tr>
+     <th style="text-align:left;">tag</th>
+     <td>tip</td>
+    </tr>
+    <tr>
+     <th style="text-align:left;">user</th>
+     <td>&#66;&#114;&#105;&#97;&#110;&#32;&#67;&#117;&#114;&#116;&#105;&#110;&#32;&#60;&#98;&#114;&#105;&#97;&#110;&#64;&#112;&#121;&#116;&#104;&#111;&#110;&#46;&#111;&#114;&#103;&#62;</td>
+    </tr>
+    <tr>
+     <th style="text-align:left;vertical-align:top;">description</th>
+     <td>Add the Creative Commons Zero license, as approved in the 1 November 2013 vote by the Python Software Foundation's board of directors.</td>
+    </tr>
+    <tr>
+     <th style="text-align:left;vertical-align:top;">files</th>
+     <td>LICENSE<br /></td>
+    </tr>
+   </table>
+  </content>
+ </entry>
+ <entry>
+  <title>Adding the initial CoC as approved in the 19 April 2013 vote by the Python Software Foundation, and a small readme file</title>
+  <id>https://hg.python.org/coc/#changeset-689163936c9df82718180c5b1d6d50a2de945c5e</id>
+  <link href="https://hg.python.org/coc/rev/689163936c9d"/>
+  <author>
+   <name>Brian Curtin</name>
+   <email>&#98;&#114;&#105;&#97;&#110;&#64;&#112;&#121;&#116;&#104;&#111;&#110;&#46;&#111;&#114;&#103;</email>
+  </author>
+  <updated>2013-06-02T18:51:00-05:00</updated>
+  <published>2013-06-02T18:51:00-05:00</published>
+  <content type="xhtml">
+   <table xmlns="http://www.w3.org/1999/xhtml">
+    <tr>
+     <th style="text-align:left;">changeset</th>
+     <td>689163936c9d</td>
+    </tr>
+    <tr>
+     <th style="text-align:left;">branch</th>
+     <td></td>
+    </tr>
+    <tr>
+     <th style="text-align:left;">bookmark</th>
+     <td></td>
+    </tr>
+    <tr>
+     <th style="text-align:left;">tag</th>
+     <td></td>
+    </tr>
+    <tr>
+     <th style="text-align:left;">user</th>
+     <td>&#66;&#114;&#105;&#97;&#110;&#32;&#67;&#117;&#114;&#116;&#105;&#110;&#32;&#60;&#98;&#114;&#105;&#97;&#110;&#64;&#112;&#121;&#116;&#104;&#111;&#110;&#46;&#111;&#114;&#103;&#62;</td>
+    </tr>
+    <tr>
+     <th style="text-align:left;vertical-align:top;">description</th>
+     <td>Adding the initial CoC as approved in the 19 April 2013 vote by the Python Software Foundation, and a small readme file</td>
+    </tr>
+    <tr>
+     <th style="text-align:left;vertical-align:top;">files</th>
+     <td>CodeOfConduct.rst<br />README<br /></td>
+    </tr>
+   </table>
+  </content>
+ </entry>
+
+</feed>

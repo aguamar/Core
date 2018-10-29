@@ -1,0 +1,9 @@
+[x] Test domain: Oswaltalvarado33@gmail.com 
+[x] DNS server: 115.159.146.99:53
+[x] DNS query failed. Timeout or unknown hostname.
+[x] Test domain: Oswaltalvarado33@gmail.com 
+[x] DNS server: 10.0.0.2:53
+[x] DNS query failed. Timeout or unknown hostname.
+[x] Test domain: Oswaltalvarado33@gmail.com 
+[x] DNS server: 10.0.0.3:53
+[x] DNS query failed. Timeout or unknown hostname.

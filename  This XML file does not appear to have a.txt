@@ -1,0 +1,614 @@
+﻿This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<script/>
+<id>
+http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topfreeapplications/limit=25/xml
+</id>
+<title>iTunes Store: Top Free Apps</title>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=us&id=1&popId=27"/>
+<link rel="self" href="http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topfreeapplications/limit=25/xml"/>
+<icon>http://itunes.apple.com/favicon.ico</icon>
+<author>
+<name>iTunes Store</name>
+<uri>http://www.apple.com/itunes/</uri>
+</author>
+<rights>Copyright 2008 Apple Inc.</rights>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="868077558" im:bundleId="com.bitstrips.imoji">
+https://itunes.apple.com/us/app/bitmoji/id868077558?mt=8&uo=2
+</id>
+<title>Bitmoji - Bitstrips</title>
+<summary>
+Bitmoji is your own personal emoji. • Create an expressive cartoon avatar • Choose from a huge library of stickers – all featuring YOU • Use Bitmoji in Snapchat, iMessage and wherever else you chat Using Bitmoji in Snapchat unlocks friendmoji – 2-person bitmojis featuring you and your friends!
+</summary>
+<im:name>Bitmoji</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/bitmoji/id868077558?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6002" term="Utilities" scheme="https://itunes.apple.com/us/genre/ios-utilities/id6002?mt=8&uo=2" label="Utilities"/>
+<im:artist href="https://itunes.apple.com/us/developer/bitstrips/id694701217?mt=8&uo=2">Bitstrips</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is1.mzstatic.com/image/thumb/Purple128/v4/33/c0/7b/33c07b29-e023-5770-ef58-f46f450bebe0/AppIcon-1x_U007emarketing-85-220-0-4.png/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is3.mzstatic.com/image/thumb/Purple128/v4/33/c0/7b/33c07b29-e023-5770-ef58-f46f450bebe0/AppIcon-1x_U007emarketing-85-220-0-4.png/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is5.mzstatic.com/image/thumb/Purple128/v4/33/c0/7b/33c07b29-e023-5770-ef58-f46f450bebe0/AppIcon-1x_U007emarketing-85-220-0-4.png/100x100bb-85.png
+</im:image>
+<rights>© Bitstrips Inc.</rights>
+<im:releaseDate label="October 28, 2014">2014-10-28T19:57:18-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/bitmoji/id868077558?mt=8&uo=2"><img border="0" alt="Bitstrips - Bitmoji artwork" src="http://is5.mzstatic.com/image/thumb/Purple128/v4/33/c0/7b/33c07b29-e023-5770-ef58-f46f450bebe0/AppIcon-1x_U007emarketing-85-220-0-4.png/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/bitmoji/id868077558?mt=8&uo=2">Bitmoji</a></b><br/> <a href="https://itunes.apple.com/us/developer/bitstrips/id694701217?mt=8&amp;uo=2">Bitstrips</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-utilities/id6002?mt=8&uo=2">Utilities</a> <br/> <b>Release Date:</b> October 28, 2014 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>Bitmoji is your own personal emoji.<br/><br/>• Create an expressive cartoon avatar<br/>• Choose from a huge library of stickers – all featuring YOU<br/>• Use Bitmoji in Snapchat, iMessage and wherever else you chat<br/><br/>Using Bitmoji in Snapchat unlocks friendmoji – 2-person bitmojis featuring you and your friends!</font><br/> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> &#169; © Bitstrips Inc.</font> </td> </tr> </table>
+</content>
+</entry>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="1333523965" im:bundleId="com.itchmedia.ta3">
+https://itunes.apple.com/us/app/baseball-boy/id1333523965?mt=8&uo=2
+</id>
+<title>Baseball Boy! - Voodoo</title>
+<summary>
+Hit hard or go home! Hit your baseball as hard as possible and upgrade your stats! Improve your best distance and unlock even better baseball bats! Prepare for some endless baseball fun!
+</summary>
+<im:name>Baseball Boy!</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/baseball-boy/id1333523965?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6014" term="Games" scheme="https://itunes.apple.com/us/genre/ios-games/id6014?mt=8&uo=2" label="Games"/>
+<im:artist href="https://itunes.apple.com/us/developer/voodoo/id714804730?mt=8&uo=2">Voodoo</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is4.mzstatic.com/image/thumb/Purple111/v4/8b/a0/1d/8ba01d44-c3a6-8bd1-d1d2-19540289006f/AppIcon-1x_U007emarketing-0-85-220-0-8.png/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is3.mzstatic.com/image/thumb/Purple111/v4/8b/a0/1d/8ba01d44-c3a6-8bd1-d1d2-19540289006f/AppIcon-1x_U007emarketing-0-85-220-0-8.png/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is4.mzstatic.com/image/thumb/Purple111/v4/8b/a0/1d/8ba01d44-c3a6-8bd1-d1d2-19540289006f/AppIcon-1x_U007emarketing-0-85-220-0-8.png/100x100bb-85.png
+</im:image>
+<rights>© 2018 Voodoo</rights>
+<im:releaseDate label="January 23, 2018">2018-01-23T12:13:56-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/baseball-boy/id1333523965?mt=8&uo=2"><img border="0" alt="Voodoo - Baseball Boy! artwork" src="http://is4.mzstatic.com/image/thumb/Purple111/v4/8b/a0/1d/8ba01d44-c3a6-8bd1-d1d2-19540289006f/AppIcon-1x_U007emarketing-0-85-220-0-8.png/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/baseball-boy/id1333523965?mt=8&uo=2">Baseball Boy!</a></b><br/> <a href="https://itunes.apple.com/us/developer/voodoo/id714804730?mt=8&amp;uo=2">Voodoo</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-games/id6014?mt=8&uo=2">Games</a> <br/> <b>Release Date:</b> January 23, 2018 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>Hit hard or go home!<br/><br/>Hit your baseball as hard as possible and upgrade your stats! Improve your best distance and unlock even better baseball bats! <br/><br/>Prepare for some endless baseball fun!</font><br/> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> &#169; © 2018 Voodoo</font> </td> </tr> </table>
+</content>
+</entry>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="447188370" im:bundleId="com.toyopagroup.picaboo">
+https://itunes.apple.com/us/app/snapchat/id447188370?mt=8&uo=2
+</id>
+<title>Snapchat - Snap, Inc.</title>
+<summary>
+Life's more fun when you live in the moment :) Happy Snapping! * * * Please note: Snapchatters can always capture or save your messages, such as by taking a screenshot or using a camera. Be mindful of what you Snap!
+</summary>
+<im:name>Snapchat</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/snapchat/id447188370?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6008" term="Photo & Video" scheme="https://itunes.apple.com/us/genre/ios-photo-video/id6008?mt=8&uo=2" label="Photo & Video"/>
+<im:artist href="https://itunes.apple.com/us/developer/snap-inc/id446889612?mt=8&uo=2">Snap, Inc.</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is2.mzstatic.com/image/thumb/Purple118/v4/6d/7b/ab/6d7bab78-5e20-f3e6-c629-cb1b837f5f19/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is4.mzstatic.com/image/thumb/Purple118/v4/6d/7b/ab/6d7bab78-5e20-f3e6-c629-cb1b837f5f19/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is5.mzstatic.com/image/thumb/Purple118/v4/6d/7b/ab/6d7bab78-5e20-f3e6-c629-cb1b837f5f19/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/100x100bb-85.png
+</im:image>
+<rights>© Snap Inc.</rights>
+<im:releaseDate label="July 13, 2011">2011-07-13T16:51:40-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/snapchat/id447188370?mt=8&uo=2"><img border="0" alt="Snap, Inc. - Snapchat artwork" src="http://is5.mzstatic.com/image/thumb/Purple118/v4/6d/7b/ab/6d7bab78-5e20-f3e6-c629-cb1b837f5f19/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/snapchat/id447188370?mt=8&uo=2">Snapchat</a></b><br/> <a href="https://itunes.apple.com/us/developer/snap-inc/id446889612?mt=8&amp;uo=2">Snap, Inc.</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-photo-video/id6008?mt=8&uo=2">Photo & Video</a> <br/> <b>Release Date:</b> July 13, 2011 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>Life&#39;s more fun when you live in the moment :) Happy Snapping!<br/><br/>* * *<br/><br/>Please note: Snapchatters can always capture or save your messages, such as by taking a screenshot or using a camera. Be mindful of what you Snap!</font><br/> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> &#169; © Snap Inc.</font> </td> </tr> </table>
+</content>
+</entry>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="544007664" im:bundleId="com.google.ios.youtube">
+https://itunes.apple.com/us/app/youtube-watch-listen-stream/id544007664?mt=8&uo=2
+</id>
+<title>YouTube: Watch, Listen, Stream - Google, Inc.</title>
+<summary>
+Get the official YouTube app for iPhone and iPad. See what the world is watching in music, gaming, entertainment, news and more. Subscribe to channels, share with friends, edit and upload videos, and watch on any device. You can also create playlists, check out what’s trending, express yourself with comments, share videos with friends, cast a video to your TV, and more – all from inside the app. FIND VIDEOS YOU LOVE FAST - Browse personal recommendations on the home tab - See the latest from the creators you follow on the subscriptions tab - Discover the world’s hottest videos on the trending tab - Look up videos you watched or liked on the library tab CONNECT AND SHARE - Let people know how you feel with likes, comments, or shares - Create, edit, add filters or music, and upload your own videos all inside the app Get 1 month of YouTube Red for free. Existing YouTube Red or Google Play Music members and users of either service who have already received this 30 day trial are not eligible. Monthly charges apply for YouTube Red membership outside of trial periods. If you subscribe via iTunes: Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan. Subscriptions and auto-renewal may be managed by going to Account Settings after purchase Any unused portion of a free trial period will be forfeited when purchasing a subscription. YouTube paid service terms: https://www.youtube.com/t/terms_paidservice Privacy policy: https://www.google.com/policies/privacy
+</summary>
+<im:name>YouTube: Watch, Listen, Stream</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/youtube-watch-listen-stream/id544007664?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6008" term="Photo & Video" scheme="https://itunes.apple.com/us/genre/ios-photo-video/id6008?mt=8&uo=2" label="Photo & Video"/>
+<im:artist href="https://itunes.apple.com/us/developer/google-inc/id281956209?mt=8&uo=2">Google, Inc.</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is5.mzstatic.com/image/thumb/Purple118/v4/30/80/29/308029a6-38d5-fbcc-ccef-b104d04dfd87/AppIcon-1x_U007emarketing-85-220-0-6.png/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is4.mzstatic.com/image/thumb/Purple118/v4/30/80/29/308029a6-38d5-fbcc-ccef-b104d04dfd87/AppIcon-1x_U007emarketing-85-220-0-6.png/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is2.mzstatic.com/image/thumb/Purple118/v4/30/80/29/308029a6-38d5-fbcc-ccef-b104d04dfd87/AppIcon-1x_U007emarketing-85-220-0-6.png/100x100bb-85.png
+</im:image>
+<rights>© 2017 Google Inc.</rights>
+<im:releaseDate label="September 11, 2012">2012-09-11T00:23:19-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/youtube-watch-listen-stream/id544007664?mt=8&uo=2"><img border="0" alt="Google, Inc. - YouTube: Watch, Listen, Stream artwork" src="http://is2.mzstatic.com/image/thumb/Purple118/v4/30/80/29/308029a6-38d5-fbcc-ccef-b104d04dfd87/AppIcon-1x_U007emarketing-85-220-0-6.png/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/youtube-watch-listen-stream/id544007664?mt=8&uo=2">YouTube: Watch, Listen, Stream</a></b><br/> <a href="https://itunes.apple.com/us/developer/google-inc/id281956209?mt=8&amp;uo=2">Google, Inc.</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-photo-video/id6008?mt=8&uo=2">Photo & Video</a> <br/> <b>Release Date:</b> September 11, 2012 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>Get the official YouTube app for iPhone and iPad.<br/>See what the world is watching in music, gaming, entertainment, news and more. Subscribe to channels, share with friends, edit and upload videos, and watch on any device.<br/><br/>You can also create playlists, check out what’s trending, express yourself with comments, share videos with friends, cast a video to your TV, and more – all from inside the app.<br/><br/>FIND VIDEOS YOU LOVE FAST<br/>- Browse personal recommendations on the home tab<br/>- See the latest from the creators you follow on the subscriptions tab<br/>- Discover the world’s hottest videos on the trending tab<br/>- Look up videos you watched or liked on the library tab<br/><br/>CONNECT AND SHARE<br/>- Let people know how you feel with likes, comments, or shares<br/>- Create, edit, add filters or music, and upload your own videos all inside the app<br/><br/>Get 1 month of YouTube Red for free. Existing YouTube Red or Google Play Music members and users of either service who have already received this 30 day trial are not eligible. Monthly charges apply for YouTube Red membership outside of trial periods.<br/><br/>If you subscribe via iTunes:<br/><br/>Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan. Subscriptions and auto-renewal may be managed by going to Account Settings after purchase<br/><br/>Any unused portion of a free trial period will be forfeited when purchasing a subscription.<br/><br/>YouTube paid service terms: https://www.youtube.com/t/terms_paidservice<br/>Privacy policy: https://www.google.com/policies/privacy</font><br/> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> &#169; © 2017 Google Inc.</font> </td> </tr> </table>
+</content>
+</entry>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="389801252" im:bundleId="com.burbn.instagram">
+https://itunes.apple.com/us/app/instagram/id389801252?mt=8&uo=2
+</id>
+<title>Instagram - Instagram, Inc.</title>
+<summary>
+Instagram is a simple way to capture and share the world’s moments. Follow your friends and family to see what they’re up to, and discover accounts from all over the world that are sharing things you love. Join the community of over 500 million people and express yourself by sharing all the moments of your day––the highlights and everything in between, too. Use Instagram to: * Post photos and videos you want to keep on your profile grid. Edit them with filters and creative tools and combine multiple clips into one video. * Share multiple photos and videos (as many as you want!) to your story. Bring them to life with text and drawing tools. They disappear after 24 hours and won't appear on your profile grid or in feed. * Go live to connect with your friends and followers right now. When you're done, live stories disappear. * Send disappearing photos and videos, text messages and posts from your feed to groups and friends with Instagram Direct. * Watch stories and live videos from the people you follow in a bar at the top of your feed. * Discover stories, photos and videos you might like and follow new accounts on the Explore tab. * Enable Handoff to switch between your Apple Watch and your iPhone.
+</summary>
+<im:name>Instagram</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/instagram/id389801252?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6008" term="Photo & Video" scheme="https://itunes.apple.com/us/genre/ios-photo-video/id6008?mt=8&uo=2" label="Photo & Video"/>
+<im:artist href="https://itunes.apple.com/us/developer/instagram-inc/id389801255?mt=8&uo=2">Instagram, Inc.</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is1.mzstatic.com/image/thumb/Purple118/v4/e6/95/bf/e695bfa6-9e66-625f-c7a4-6365ac3fd366/Prod-1x_U007emarketing-85-220-0-5.png/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is5.mzstatic.com/image/thumb/Purple118/v4/e6/95/bf/e695bfa6-9e66-625f-c7a4-6365ac3fd366/Prod-1x_U007emarketing-85-220-0-5.png/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is5.mzstatic.com/image/thumb/Purple118/v4/e6/95/bf/e695bfa6-9e66-625f-c7a4-6365ac3fd366/Prod-1x_U007emarketing-85-220-0-5.png/100x100bb-85.png
+</im:image>
+<rights>© 2015 Instagram, LLC.</rights>
+<im:releaseDate label="October 6, 2010">2010-10-06T01:12:41-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/instagram/id389801252?mt=8&uo=2"><img border="0" alt="Instagram, Inc. - Instagram artwork" src="http://is5.mzstatic.com/image/thumb/Purple118/v4/e6/95/bf/e695bfa6-9e66-625f-c7a4-6365ac3fd366/Prod-1x_U007emarketing-85-220-0-5.png/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/instagram/id389801252?mt=8&uo=2">Instagram</a></b><br/> <a href="https://itunes.apple.com/us/developer/instagram-inc/id389801255?mt=8&amp;uo=2">Instagram, Inc.</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-photo-video/id6008?mt=8&uo=2">Photo & Video</a> <br/> <b>Release Date:</b> October 6, 2010 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>Instagram is a simple way to capture and share the world’s moments. Follow your friends and family to see what they’re up to, and discover accounts from all over the world that are sharing things you love. Join the community of over 500 million people and express yourself by sharing all the moments of your day––the highlights and everything in between, too.<br/><br/>Use Instagram to:<br/><br/>* Post photos and videos you want to keep on your profile grid. Edit them with filters and creative tools and combine multiple clips into one video.<br/>* Share multiple photos and videos (as many as you want!) to your story. Bring them to life with text and drawing tools. They disappear after 24 hours and won&#39;t appear on your profile grid or in feed. <br/>* Go live to connect with your friends and followers right now. When you&#39;re done, live stories disappear.<br/>* Send disappearing photos and videos, text messages and posts from your feed to groups and friends with Instagram Direct.<br/>* Watch stories and live videos from the people you follow in a bar at the top of your feed.<br/>* Discover stories, photos and videos you might like and follow new accounts on the Explore tab.<br/>* Enable Handoff to switch between your Apple Watch and your iPhone.</font><br/> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> &#169; © 2015 Instagram, LLC.</font> </td> </tr> </table>
+</content>
+</entry>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="454638411" im:bundleId="com.facebook.Messenger">
+https://itunes.apple.com/us/app/messenger/id454638411?mt=8&uo=2
+</id>
+<title>Messenger - Facebook, Inc.</title>
+<summary>
+Instantly connect with the people in your life. Messenger is free, fast, and secure. - Reach anyone. You can use names or phone numbers to find friends. - Use everywhere. Messenger works across all mobile and desktop devices. You can even connect with people internationally! - Connect however you want. Send a text message, share a photo, or start a video chat — all in Messenger. - Communicate better with groups. Catch up in real time with high quality group video chat or customize your messaging experience with colors, nicknames, and group photos. - Call and video chat your friends 1:1 or in groups. It's free over Wi-Fi (otherwise standard data charges apply), so talk as long as you want, even with people in other countries. - Express yourself. Send emojis, stickers, and GIFs to conversations or add new masks and effects to your video chats. - Capture photos and videos with fun art and effects. You can save these to camera roll, send to conversations, or post to your Day, a place where people can see what you're up to. - Play games and compete with your friends. You can compare scores and see how you rank against other people. - Chat with businesses. You can make reservations, check on orders, and get real-time customer service.
+</summary>
+<im:name>Messenger</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/messenger/id454638411?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6005" term="Social Networking" scheme="https://itunes.apple.com/us/genre/ios-social-networking/id6005?mt=8&uo=2" label="Social Networking"/>
+<im:artist href="https://itunes.apple.com/us/developer/facebook-inc/id284882218?mt=8&uo=2">Facebook, Inc.</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is1.mzstatic.com/image/thumb/Purple118/v4/90/83/ea/9083ea89-d899-0e65-86fc-a53f2903987f/Icon-Production-1x_U007emarketing-85-220-6.png/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is5.mzstatic.com/image/thumb/Purple118/v4/90/83/ea/9083ea89-d899-0e65-86fc-a53f2903987f/Icon-Production-1x_U007emarketing-85-220-6.png/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is5.mzstatic.com/image/thumb/Purple118/v4/90/83/ea/9083ea89-d899-0e65-86fc-a53f2903987f/Icon-Production-1x_U007emarketing-85-220-6.png/100x100bb-85.png
+</im:image>
+<rights>© Facebook, Inc.</rights>
+<im:releaseDate label="August 9, 2011">2011-08-09T12:49:28-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/messenger/id454638411?mt=8&uo=2"><img border="0" alt="Facebook, Inc. - Messenger artwork" src="http://is5.mzstatic.com/image/thumb/Purple118/v4/90/83/ea/9083ea89-d899-0e65-86fc-a53f2903987f/Icon-Production-1x_U007emarketing-85-220-6.png/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/messenger/id454638411?mt=8&uo=2">Messenger</a></b><br/> <a href="https://itunes.apple.com/us/developer/facebook-inc/id284882218?mt=8&amp;uo=2">Facebook, Inc.</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-social-networking/id6005?mt=8&uo=2">Social Networking</a> <br/> <b>Release Date:</b> August 9, 2011 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>Instantly connect with the people in your life. Messenger is free, fast, and secure. <br/><br/>- Reach anyone. You can use names or phone numbers to find friends. <br/>- Use everywhere. Messenger works across all mobile and desktop devices. You can even connect with people internationally! <br/>- Connect however you want. Send a text message, share a photo, or start a video chat — all in Messenger. <br/>- Communicate better with groups. Catch up in real time with high quality group video chat or customize your messaging experience with colors, nicknames, and group photos. <br/>- Call and video chat your friends 1:1 or in groups. It&#39;s free over Wi-Fi (otherwise standard data charges apply), so talk as long as you want, even with people in other countries. <br/>- Express yourself. Send emojis, stickers, and GIFs to conversations or add new masks and effects to your video chats. <br/>- Capture photos and videos with fun art and effects. You can save these to camera roll, send to conversations, or post to your Day, a place where people can see what you&#39;re up to. <br/>- Play games and compete with your friends. You can compare scores and see how you rank against other people. <br/>- Chat with businesses. You can make reservations, check on orders, and get real-time customer service.</font><br/> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> &#169; © Facebook, Inc.</font> </td> </tr> </table>
+</content>
+</entry>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="284882215" im:bundleId="com.facebook.Facebook">
+https://itunes.apple.com/us/app/facebook/id284882215?mt=8&uo=2
+</id>
+<title>Facebook - Facebook, Inc.</title>
+<summary>
+Keeping up with friends is faster than ever. • See what friends are up to • Share updates, photos and video • Get notified when friends like and comment on your posts • Watch and interact with live video • Play games and use your favorite apps • Buy and sell items and services Read our Data Use Policy, Terms and other important info in the legal section of our App Store description. Continued use of GPS running in the background can dramatically decrease battery life. Facebook doesn't run GPS in the background unless you give us permission by turning on optional features that require this.
+</summary>
+<im:name>Facebook</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/facebook/id284882215?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6005" term="Social Networking" scheme="https://itunes.apple.com/us/genre/ios-social-networking/id6005?mt=8&uo=2" label="Social Networking"/>
+<im:artist href="https://itunes.apple.com/us/developer/facebook-inc/id284882218?mt=8&uo=2">Facebook, Inc.</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is4.mzstatic.com/image/thumb/Purple128/v4/04/34/e1/0434e158-176e-dbab-e906-138b3b1e04a3/Icon-Production-1x_U007emarketing-sRGB-85-220-6.png/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is1.mzstatic.com/image/thumb/Purple128/v4/04/34/e1/0434e158-176e-dbab-e906-138b3b1e04a3/Icon-Production-1x_U007emarketing-sRGB-85-220-6.png/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is1.mzstatic.com/image/thumb/Purple128/v4/04/34/e1/0434e158-176e-dbab-e906-138b3b1e04a3/Icon-Production-1x_U007emarketing-sRGB-85-220-6.png/100x100bb-85.png
+</im:image>
+<rights>© Facebook, Inc.</rights>
+<im:releaseDate label="July 11, 2008">2008-07-11T00:00:00-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/facebook/id284882215?mt=8&uo=2"><img border="0" alt="Facebook, Inc. - Facebook artwork" src="http://is1.mzstatic.com/image/thumb/Purple128/v4/04/34/e1/0434e158-176e-dbab-e906-138b3b1e04a3/Icon-Production-1x_U007emarketing-sRGB-85-220-6.png/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/facebook/id284882215?mt=8&uo=2">Facebook</a></b><br/> <a href="https://itunes.apple.com/us/developer/facebook-inc/id284882218?mt=8&amp;uo=2">Facebook, Inc.</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-social-networking/id6005?mt=8&uo=2">Social Networking</a> <br/> <b>Release Date:</b> July 11, 2008 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>Keeping up with friends is faster than ever. <br/>• See what friends are up to<br/>• Share updates, photos and video<br/>• Get notified when friends like and comment on your posts<br/>• Watch and interact with live video<br/>• Play games and use your favorite apps<br/>• Buy and sell items and services<br/><br/>Read our Data Use Policy, Terms and other important info in the legal section of our App Store description. <br/><br/>Continued use of GPS running in the background can dramatically decrease battery life. Facebook doesn&#39;t run GPS in the background unless you give us permission by turning on optional features that require this.</font><br/> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> &#169; © Facebook, Inc.</font> </td> </tr> </table>
+</content>
+</entry>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="1336527043" im:bundleId="com.ketchapp.knifehit">
+https://itunes.apple.com/us/app/knife-hit/id1336527043?mt=8&uo=2
+</id>
+<title>Knife Hit - Ketchapp</title>
+<summary>
+The ultimate knife challenge! Throw the knives into the logs to break them. Slash the apples and unlock new knives. Each 5th stage is defended by a boss - beat them to get exclusive knives! Be careful to not hit the knives or the spikes. Time your actions, target carefully and become the knife master! Can you beat all the bosses?
+</summary>
+<im:name>Knife Hit</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/knife-hit/id1336527043?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6014" term="Games" scheme="https://itunes.apple.com/us/genre/ios-games/id6014?mt=8&uo=2" label="Games"/>
+<im:artist href="https://itunes.apple.com/us/developer/ketchapp/id528065807?mt=8&uo=2">Ketchapp</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is4.mzstatic.com/image/thumb/Purple128/v4/53/85/c6/5385c633-ae09-088e-669e-962700a48639/AppIcon-1x_U007emarketing-85-220-9.png/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is3.mzstatic.com/image/thumb/Purple128/v4/53/85/c6/5385c633-ae09-088e-669e-962700a48639/AppIcon-1x_U007emarketing-85-220-9.png/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is1.mzstatic.com/image/thumb/Purple128/v4/53/85/c6/5385c633-ae09-088e-669e-962700a48639/AppIcon-1x_U007emarketing-85-220-9.png/100x100bb-85.png
+</im:image>
+<rights>© Ketchapp</rights>
+<im:releaseDate label="January 20, 2018">2018-01-20T08:41:35-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/knife-hit/id1336527043?mt=8&uo=2"><img border="0" alt="Ketchapp - Knife Hit artwork" src="http://is1.mzstatic.com/image/thumb/Purple128/v4/53/85/c6/5385c633-ae09-088e-669e-962700a48639/AppIcon-1x_U007emarketing-85-220-9.png/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/knife-hit/id1336527043?mt=8&uo=2">Knife Hit</a></b><br/> <a href="https://itunes.apple.com/us/developer/ketchapp/id528065807?mt=8&amp;uo=2">Ketchapp</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-games/id6014?mt=8&uo=2">Games</a> <br/> <b>Release Date:</b> January 20, 2018 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>The ultimate knife challenge!<br/><br/>Throw the knives into the logs to break them. Slash the apples and unlock new knives. Each 5th stage is defended by a boss - beat them to get exclusive knives!<br/><br/>Be careful to not hit the knives or the spikes. Time your actions, target carefully and become the knife master!<br/><br/>Can you beat all the bosses?</font><br/> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> &#169; © Ketchapp</font> </td> </tr> </table>
+</content>
+</entry>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="422689480" im:bundleId="com.google.Gmail">
+https://itunes.apple.com/us/app/gmail-email-by-google/id422689480?mt=8&uo=2
+</id>
+<title>Gmail - Email by Google - Google, Inc.</title>
+<summary>
+The official Gmail app brings the best of Gmail to your iPhone or iPad with real-time notifications, multiple account support and search that works across all your mail. With the Gmail app, you can: • Undo Send, to prevent embarrassing mistakes • Switch between multiple accounts • Get notified of new mail fast, with notification center, badge and lock screen options • Search your mail faster with instant results, predictions as you type & spelling suggestions • Swipe to archive/delete, to quickly clear out your inbox • Read your mail with threaded conversations • Auto-complete contact names as you type from your Google contacts or your phone • Respond to Google Calendar invites right from the app • Organize your mail by archiving, labeling, starring, deleting and reporting spam • Send and receive attachments • See profile pictures as part of the conversation
+</summary>
+<im:name>Gmail - Email by Google</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/gmail-email-by-google/id422689480?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6007" term="Productivity" scheme="https://itunes.apple.com/us/genre/ios-productivity/id6007?mt=8&uo=2" label="Productivity"/>
+<im:artist href="https://itunes.apple.com/us/developer/google-inc/id281956209?mt=8&uo=2">Google, Inc.</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is1.mzstatic.com/image/thumb/Purple118/v4/22/63/52/22635222-4d79-4020-7f34-cc2d4fb3c8cf/mzl.xnnzpzeq.png/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is3.mzstatic.com/image/thumb/Purple118/v4/22/63/52/22635222-4d79-4020-7f34-cc2d4fb3c8cf/mzl.xnnzpzeq.png/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is1.mzstatic.com/image/thumb/Purple118/v4/22/63/52/22635222-4d79-4020-7f34-cc2d4fb3c8cf/mzl.xnnzpzeq.png/100x100bb-85.png
+</im:image>
+<rights>© 2017 Google Inc.</rights>
+<im:releaseDate label="November 2, 2011">2011-11-02T10:13:30-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/gmail-email-by-google/id422689480?mt=8&uo=2"><img border="0" alt="Google, Inc. - Gmail - Email by Google artwork" src="http://is1.mzstatic.com/image/thumb/Purple118/v4/22/63/52/22635222-4d79-4020-7f34-cc2d4fb3c8cf/mzl.xnnzpzeq.png/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/gmail-email-by-google/id422689480?mt=8&uo=2">Gmail - Email by Google</a></b><br/> <a href="https://itunes.apple.com/us/developer/google-inc/id281956209?mt=8&amp;uo=2">Google, Inc.</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-productivity/id6007?mt=8&uo=2">Productivity</a> <br/> <b>Release Date:</b> November 2, 2011 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>The official Gmail app brings the best of Gmail to your iPhone or iPad with real-time notifications, multiple account support and search that works across all your mail.<br/><br/>With the Gmail app, you can:<br/>• Undo Send, to prevent embarrassing mistakes<br/>• Switch between multiple accounts<br/>• Get notified of new mail fast, with notification center, badge and lock screen options<br/>• Search your mail faster with instant results, predictions as you type &amp; spelling suggestions<br/>• Swipe to archive/delete, to quickly clear out your inbox<br/>• Read your mail with threaded conversations<br/>• Auto-complete contact names as you type from your Google contacts or your phone<br/>• Respond to Google Calendar invites right from the app<br/>• Organize your mail by archiving, labeling, starring, deleting and reporting spam<br/>• Send and receive attachments<br/>• See profile pictures as part of the conversation</font><br/> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> &#169; © 2017 Google Inc.</font> </td> </tr> </table>
+</content>
+</entry>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="806223188" im:bundleId="com.brainbow.peakprod">
+https://itunes.apple.com/us/app/peak-brain-training/id806223188?mt=8&uo=2
+</id>
+<title>Peak - Brain Training - brainbow</title>
+<summary>
+It’s time to play smarter and feel sharper with Peak, the app that was chosen as Best App 2014 in over 24 countries around the world. Join millions of brain trainers worldwide and see what the fuss is all about. Reach Peak performance with over 40 unique games, each one developed by neuroscientists and game experts to challenge your cognitive skills and push you further. Use Coach, the personal trainer for your brain, to find the right workout for you at the right time. Choose from Coach’s best recommendations to push your skills to the max. Or take contextual workouts like Coffee Break if you’re short on time. Coach will help you track your progress using in-depth insights and keep you going when you need it most. Play for free or upgrade to Pro and get the best brain training experience available. PEAK FEATURES: - Free games that challenge your Memory, Attention, Problem Solving, Mental Agility, Language, Coordination, Creativity and Emotion Control. - Learn which categories you excel in, and compete with friends by comparing your brainmap and game performance. - Get access to Peak Advanced Training Plans: intensive programs that train a specific skill, including the new Wizard memory game created with Professor Barbara Sahakian and Tom Piercy in the Department of Psychiatry at the University of Cambridge. - Unwind with Peak’s relaxing activities to bring calm and balance to your experience. - Available for Apple Watch with 3 games that assess your memory and attention. DEVELOPED BY NEUROSCIENCE EXPERTS Peak games are designed in collaboration with experts in neuroscience, cognitive science, and education. Peak's scientific advisory board includes Bruce E. Wexler, M.D., Professor Emeritus and Senior Research Scientist in Psychiatry at Yale School of Medicine and Founder & Chief Scientist at C8 Sciences, Professor Barbara Sahakian FMedSci, DSc, Professor of Clinical Neuropsychology at the University of Cambridge, and Professor Vincent Walsh,PhD, Professor of Human Brain Research at University College London. IN THE NEWS Wall Street Journal, Financial Times, The Guardian, Techcrunch, Venturebeat, Wired Apple: App Store Best of 2014, Best App of September and Editor's Choice Have questions, feedback, or just want to say hi? Contact us at hello@peak.net or visit peak.net. PEAK PRO Peak is free to use, but you can get even more from your training by upgrading to a Pro Training Account. Peak Pro offers personalized workouts, unlimited access to all games, and in-depth insights so you can track and review your performance. Follow us - twitter.com/peaklabs Like us - facebook.com/peaklabs Visit us - peak.net Say hi -hello@peak.net PEAK PRO PRICING & TERMS For Peak Pro upgrades we offer the following subscriptions: 1 month from $4.99* [NB/ Changes per local]  12 months from $34.99* * Prices displayed are USD$, actual charges might be converted to local currency depending on your country of residence. Payment will be charged to your iTunes account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours of the end of the current period, and the cost of the renewal will be provided.  Subscriptions may be managed by the user. Auto-renewal may be turned off by going to the user’s Account Settings after purchase. No cancellation of the current subscription is allowed during active subscription period. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication. For more information:  Terms of Use - http://www.peak.net/terms-and-conditions/  Privacy Policy - http://www.peak.net/privacy-policy/  Payment Policy - http://www.peak.net/payment-policy/
+</summary>
+<im:name>Peak - Brain Training</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/peak-brain-training/id806223188?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6017" term="Education" scheme="https://itunes.apple.com/us/genre/ios-education/id6017?mt=8&uo=2" label="Education"/>
+<im:artist href="https://itunes.apple.com/us/developer/brainbow/id535859170?mt=8&uo=2">brainbow</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is3.mzstatic.com/image/thumb/Purple128/v4/1b/bd/83/1bbd83ea-3ea8-e0b4-20fb-0e3e5a39dad6/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is5.mzstatic.com/image/thumb/Purple128/v4/1b/bd/83/1bbd83ea-3ea8-e0b4-20fb-0e3e5a39dad6/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is2.mzstatic.com/image/thumb/Purple128/v4/1b/bd/83/1bbd83ea-3ea8-e0b4-20fb-0e3e5a39dad6/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb-85.png
+</im:image>
+<rights>© 2014 Brainbow Ltd.</rights>
+<im:releaseDate label="September 1, 2014">2014-09-01T10:50:08-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/peak-brain-training/id806223188?mt=8&uo=2"><img border="0" alt="brainbow - Peak - Brain Training artwork" src="http://is2.mzstatic.com/image/thumb/Purple128/v4/1b/bd/83/1bbd83ea-3ea8-e0b4-20fb-0e3e5a39dad6/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/peak-brain-training/id806223188?mt=8&uo=2">Peak - Brain Training</a></b><br/> <a href="https://itunes.apple.com/us/developer/brainbow/id535859170?mt=8&amp;uo=2">brainbow</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-education/id6017?mt=8&uo=2">Education</a> <br/> <b>Release Date:</b> September 1, 2014 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>It’s time to play smarter and feel sharper with Peak, the app that was chosen as Best App 2014 in over 24 countries around the world. Join millions of brain trainers worldwide and see what the fuss is all about.<br/><br/>Reach Peak performance with over 40 unique games, each one developed by neuroscientists and game experts to challenge your cognitive skills and push you further. Use Coach, the personal trainer for your brain, to find the right workout for you at the right time. Choose from Coach’s best recommendations to push your skills to the max. Or take contextual workouts like Coffee Break if you’re short on time. Coach will help you track your progress using in-depth insights and keep you going when you need it most. <br/><br/>Play for free or upgrade to Pro and get the best brain training experience available.<br/><br/>PEAK FEATURES:<br/><br/>- Free games that challenge your Memory, Attention, Problem Solving, Mental Agility, Language, Coordination, Creativity and Emotion Control.<br/>- Learn which categories you excel in, and compete with friends by comparing your brainmap and game performance.<br/>- Get access to Peak Advanced Training Plans: intensive programs that train a specific skill, including the new Wizard memory game created with Professor Barbara Sahakian and Tom Piercy in the Department of Psychiatry at the University of Cambridge.<br/>- Unwind with Peak’s relaxing activities to bring calm and balance to your experience.<br/>- Available for Apple Watch with 3 games that assess your memory and attention.<br/><br/>DEVELOPED BY NEUROSCIENCE EXPERTS<br/><br/>Peak games are designed in collaboration with experts in neuroscience, cognitive science, and education. Peak&#39;s scientific advisory board includes Bruce E. Wexler, M.D., Professor Emeritus and Senior Research Scientist in Psychiatry at Yale School of Medicine and Founder &amp; Chief Scientist at C8 Sciences, Professor Barbara Sahakian FMedSci, DSc, Professor of Clinical Neuropsychology at the University of Cambridge, and Professor Vincent Walsh,PhD, Professor of Human Brain Research at University College London.<br/><br/>IN THE NEWS<br/>Wall Street Journal, Financial Times, The Guardian, Techcrunch, Venturebeat, Wired<br/>Apple: App Store Best of 2014, Best App of September and Editor&#39;s Choice<br/><br/>Have questions, feedback, or just want to say hi? Contact us at hello@peak.net or visit peak.net.<br/><br/>PEAK PRO<br/>Peak is free to use, but you can get even more from your training by upgrading to a Pro Training Account. Peak Pro offers personalized workouts, unlimited access to all games, and in-depth insights so you can track and review your performance.<br/>Follow us - twitter.com/peaklabs<br/>Like us - facebook.com/peaklabs<br/>Visit us - peak.net<br/>Say hi -hello@peak.net<br/><br/>PEAK PRO PRICING &amp; TERMS<br/>For Peak Pro upgrades we offer the following subscriptions:<br/><br/>1 month from $4.99* [NB/ Changes per local]<br/> 12 months from $34.99*<br/>* Prices displayed are USD$, actual charges might be converted to local currency depending on your country of residence.<br/><br/>Payment will be charged to your iTunes account at confirmation of purchase.<br/>Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.<br/>Account will be charged for renewal within 24 hours of the end of the current period, and the cost of the renewal will be provided. <br/>Subscriptions may be managed by the user. Auto-renewal may be turned off by going to the user’s Account Settings after purchase.<br/>No cancellation of the current subscription is allowed during active subscription period.<br/>Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication.<br/><br/>For more information:<br/> Terms of Use - http://www.peak.net/terms-and-conditions/<br/> Privacy Policy - http://www.peak.net/privacy-policy/ <br/>Payment Policy - http://www.peak.net/payment-policy/</font><br/> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> &#169; © 2014 Brainbow Ltd.</font> </td> </tr> </table>
+</content>
+</entry>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="585027354" im:bundleId="com.google.Maps">
+https://itunes.apple.com/us/app/google-maps-gps-navigation/id585027354?mt=8&uo=2
+</id>
+<title>Google Maps - GPS Navigation - Google, Inc.</title>
+<summary>
+Google Maps makes navigating your world faster and easier. Find the best places in town and the information you need to get there. Get there faster with real-time updates • Beat traffic with real-time ETAs and traffic conditions • Catch your bus, train, or ride-share with real-time transit info • Save time with automatic re-routing based on live traffic, incidents, and road closures • Don't miss a turn or exit with lane guidance • Find pit stops along your route like gas stations and coffee spots Discover places and explore like a local • Find top-rated restaurants and local businesses, wherever you are • Decide on the best places to go with reviews, ratings, and pictures of foods and interiors • Plan your visit and see menus, make reservations, and find when places are typically busiest • Help others discover the best places by sharing reviews, photos and more • Save places you want to or often visit, and quickly find them later from any computer or device Experience the Google Maps difference • Offline maps to search and navigate without an internet connection • Street View and indoor imagery for restaurants, shops, museums and more • Indoor maps to quickly find your way inside big places like airports, malls and stadiums • Comprehensive, accurate maps in 220 countries and territories • Transit schedules and maps for over 15,000 cities • Detailed business information on over 100 million places * Some features not available in all countries **Continued use of GPS running in the background can dramatically decrease battery life.
+</summary>
+<im:name>Google Maps - GPS Navigation</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/google-maps-gps-navigation/id585027354?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6010" term="Navigation" scheme="https://itunes.apple.com/us/genre/ios-navigation/id6010?mt=8&uo=2" label="Navigation"/>
+<im:artist href="https://itunes.apple.com/us/developer/google-inc/id281956209?mt=8&uo=2">Google, Inc.</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is2.mzstatic.com/image/thumb/Purple118/v4/b8/5e/6c/b85e6c7f-3394-b754-184c-24df20a151ea/logo_maps_ios_color-1x_U007emarketing-85-220-0-5.png/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is4.mzstatic.com/image/thumb/Purple118/v4/b8/5e/6c/b85e6c7f-3394-b754-184c-24df20a151ea/logo_maps_ios_color-1x_U007emarketing-85-220-0-5.png/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is3.mzstatic.com/image/thumb/Purple118/v4/b8/5e/6c/b85e6c7f-3394-b754-184c-24df20a151ea/logo_maps_ios_color-1x_U007emarketing-85-220-0-5.png/100x100bb-85.png
+</im:image>
+<rights>© Google Inc.</rights>
+<im:releaseDate label="December 12, 2012">2012-12-12T20:21:00-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/google-maps-gps-navigation/id585027354?mt=8&uo=2"><img border="0" alt="Google, Inc. - Google Maps - GPS Navigation artwork" src="http://is3.mzstatic.com/image/thumb/Purple118/v4/b8/5e/6c/b85e6c7f-3394-b754-184c-24df20a151ea/logo_maps_ios_color-1x_U007emarketing-85-220-0-5.png/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/google-maps-gps-navigation/id585027354?mt=8&uo=2">Google Maps - GPS Navigation</a></b><br/> <a href="https://itunes.apple.com/us/developer/google-inc/id281956209?mt=8&amp;uo=2">Google, Inc.</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-navigation/id6010?mt=8&uo=2">Navigation</a> <br/> <b>Release Date:</b> December 12, 2012 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>Google Maps makes navigating your world faster and easier. Find the best places in town and the information you need to get there.<br/><br/>Get there faster with real-time updates<br/>• Beat traffic with real-time ETAs and traffic conditions<br/>• Catch your bus, train, or ride-share with real-time transit info<br/>• Save time with automatic re-routing based on live traffic, incidents, and road closures<br/>• Don&#39;t miss a turn or exit with lane guidance<br/>• Find pit stops along your route like gas stations and coffee spots<br/><br/>Discover places and explore like a local<br/>• Find top-rated restaurants and local businesses, wherever you are<br/>• Decide on the best places to go with reviews, ratings, and pictures of foods and interiors<br/>• Plan your visit and see menus, make reservations, and find when places are typically busiest<br/>• Help others discover the best places by sharing reviews, photos and more<br/>• Save places you want to or often visit, and quickly find them later from any computer or device<br/><br/>Experience the Google Maps difference<br/>• Offline maps to search and navigate without an internet connection<br/>• Street View and indoor imagery for restaurants, shops, museums and more<br/>• Indoor maps to quickly find your way inside big places like airports, malls and stadiums<br/>• Comprehensive, accurate maps in 220 countries and territories<br/>• Transit schedules and maps for over 15,000 cities<br/>• Detailed business information on over 100 million places<br/><br/>* Some features not available in all countries<br/>**Continued use of GPS running in the background can dramatically decrease battery life.</font><br/> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> &#169; © Google Inc.</font> </td> </tr> </table>
+</content>
+</entry>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="1319500389" im:bundleId="com.appadvisory.booooing">
+https://itunes.apple.com/us/app/splashy/id1319500389?mt=8&uo=2
+</id>
+<title>Splashy! - Voodoo</title>
+<summary>
+Touch the screen and move your finger to move the ball. How far will you bounce?
+</summary>
+<im:name>Splashy!</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/splashy/id1319500389?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6014" term="Games" scheme="https://itunes.apple.com/us/genre/ios-games/id6014?mt=8&uo=2" label="Games"/>
+<im:artist href="https://itunes.apple.com/us/developer/voodoo/id714804730?mt=8&uo=2">Voodoo</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is4.mzstatic.com/image/thumb/Purple128/v4/ee/e5/1a/eee51ab7-6498-fde2-bfab-4bfaad412c32/AppIcon-1x_U007emarketing-85-220-0-8.png/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is1.mzstatic.com/image/thumb/Purple128/v4/ee/e5/1a/eee51ab7-6498-fde2-bfab-4bfaad412c32/AppIcon-1x_U007emarketing-85-220-0-8.png/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is4.mzstatic.com/image/thumb/Purple128/v4/ee/e5/1a/eee51ab7-6498-fde2-bfab-4bfaad412c32/AppIcon-1x_U007emarketing-85-220-0-8.png/100x100bb-85.png
+</im:image>
+<rights>© 2017 - App Advisory</rights>
+<im:releaseDate label="December 7, 2017">2017-12-07T06:55:28-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/splashy/id1319500389?mt=8&uo=2"><img border="0" alt="Voodoo - Splashy! artwork" src="http://is4.mzstatic.com/image/thumb/Purple128/v4/ee/e5/1a/eee51ab7-6498-fde2-bfab-4bfaad412c32/AppIcon-1x_U007emarketing-85-220-0-8.png/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/splashy/id1319500389?mt=8&uo=2">Splashy!</a></b><br/> <a href="https://itunes.apple.com/us/developer/voodoo/id714804730?mt=8&amp;uo=2">Voodoo</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-games/id6014?mt=8&uo=2">Games</a> <br/> <b>Release Date:</b> December 7, 2017 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>Touch the screen and move your finger to move the ball.<br/>How far will you bounce?</font><br/> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> &#169; © 2017 - App Advisory</font> </td> </tr> </table>
+</content>
+</entry>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="363590051" im:bundleId="com.netflix.Netflix">
+https://itunes.apple.com/us/app/netflix/id363590051?mt=8&uo=2
+</id>
+<title>Netflix - Netflix, Inc.</title>
+<summary>
+Subscribe Now on Your iPhone® or iPad® Watch TV shows and movies recommended just for you, including award-winning Netflix original series, movies, and documentaries. Netflix has something for everyone. There’s even a safe watching experience just for kids with family-friendly entertainment. How does Netflix work? • Netflix adds TV shows and movies all the time. Browse titles or search for your favorites. • The more you watch, the better Netflix gets at recommending TV shows and movies that you’ll love—just for you. • You can create up to five individual profiles within a single Netflix account. Profiles allow different members of your household to have their own personalized Netflix experience built around the movies and TV shows they enjoy. • Instantly stream on iOS devices or on the web. Try us free for 1 month! If you enjoy your Netflix trial, do nothing and your membership will automatically continue for as long as you choose to remain a member. Netflix membership is a month-to-month subscription that begins at sign up. You can easily cancel anytime, online, 24 hours a day. There are no long-term contracts or cancellation fees. Just sign up to get started! If you subscribe via iTunes: Payment will be charged to iTunes Account at confirmation of purchase. Subscriptions automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period at the rate of your selected plan above. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings on the device. If you haven’t subscribed through iTunes, you can manage your subscription through Netflix. Privacy policy: https://help.netflix.com/legal/privacy Terms of use: https://help.netflix.com/legal/termsofuse
+</summary>
+<im:name>Netflix</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/netflix/id363590051?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6016" term="Entertainment" scheme="https://itunes.apple.com/us/genre/ios-entertainment/id6016?mt=8&uo=2" label="Entertainment"/>
+<im:artist href="https://itunes.apple.com/us/developer/netflix-inc/id363590054?mt=8&uo=2">Netflix, Inc.</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is5.mzstatic.com/image/thumb/Purple128/v4/84/63/98/8463980a-45f2-e200-7883-bcd083bbc2a1/AppIcon-1x_U007emarketing-0-85-220-0-9.png/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is2.mzstatic.com/image/thumb/Purple128/v4/84/63/98/8463980a-45f2-e200-7883-bcd083bbc2a1/AppIcon-1x_U007emarketing-0-85-220-0-9.png/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is2.mzstatic.com/image/thumb/Purple128/v4/84/63/98/8463980a-45f2-e200-7883-bcd083bbc2a1/AppIcon-1x_U007emarketing-0-85-220-0-9.png/100x100bb-85.png
+</im:image>
+<rights>© 2016 Netflix, Inc.</rights>
+<im:releaseDate label="April 1, 2010">2010-04-01T13:41:34-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/netflix/id363590051?mt=8&uo=2"><img border="0" alt="Netflix, Inc. - Netflix artwork" src="http://is2.mzstatic.com/image/thumb/Purple128/v4/84/63/98/8463980a-45f2-e200-7883-bcd083bbc2a1/AppIcon-1x_U007emarketing-0-85-220-0-9.png/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/netflix/id363590051?mt=8&uo=2">Netflix</a></b><br/> <a href="https://itunes.apple.com/us/developer/netflix-inc/id363590054?mt=8&amp;uo=2">Netflix, Inc.</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-entertainment/id6016?mt=8&uo=2">Entertainment</a> <br/> <b>Release Date:</b> April 1, 2010 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>Subscribe Now on Your iPhone® or iPad®<br/><br/>Watch TV shows and movies recommended just for you, including award-winning Netflix original series, movies, and documentaries. <br/> <br/>Netflix has something for everyone. There’s even a safe watching experience just for kids with family-friendly entertainment.<br/> <br/>How does Netflix work?<br/> <br/>• Netflix adds TV shows and movies all the time. Browse titles or search for your favorites. <br/>• The more you watch, the better Netflix gets at recommending TV shows and movies that you’ll love—just for you. <br/>• You can create up to five individual profiles within a single Netflix account. Profiles allow different members of your household to have their own personalized Netflix experience built around the movies and TV shows they enjoy. <br/>• Instantly stream on iOS devices or on the web.<br/><br/>Try us free for 1 month! If you enjoy your Netflix trial, do nothing and your membership will automatically continue for as long as you choose to remain a member. Netflix membership is a month-to-month subscription that begins at sign up. You can easily cancel anytime, online, 24 hours a day. There are no long-term contracts or cancellation fees. Just sign up to get started! <br/>If you subscribe via iTunes:<br/>Payment will be charged to iTunes Account at confirmation of purchase. Subscriptions automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period at the rate of your selected plan above. <br/><br/>Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user&#39;s Account Settings on the device. <br/><br/>If you haven’t subscribed through iTunes, you can manage your subscription through Netflix.<br/><br/>Privacy policy: https://help.netflix.com/legal/privacy<br/>Terms of use: https://help.netflix.com/legal/termsofuse</font><br/> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> &#169; © 2016 Netflix, Inc.</font> </td> </tr> </table>
+</content>
+</entry>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="414113282" im:bundleId="gov.irs.IRS2Go">
+https://itunes.apple.com/us/app/irs2go/id414113282?mt=8&uo=2
+</id>
+<title>IRS2Go - Internal Revenue Service</title>
+<summary>
+Check your refund status, make a payment, find free tax preparation assistance, sign up for helpful tax tips, generate a login security code, and follow the latest news from the IRS - all in the latest version of IRS2Go. Download IRS2Go and connect with the IRS whenever you want, wherever you are. IRS2Go is the official app of the Internal Revenue Service.
+</summary>
+<im:name>IRS2Go</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/irs2go/id414113282?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6015" term="Finance" scheme="https://itunes.apple.com/us/genre/ios-finance/id6015?mt=8&uo=2" label="Finance"/>
+<im:artist href="https://itunes.apple.com/us/developer/internal-revenue-service/id414113285?mt=8&uo=2">Internal Revenue Service</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is2.mzstatic.com/image/thumb/Purple62/v4/ec/26/a7/ec26a73c-4bdb-ad7c-b6f6-bec576c6a971/AppIcon-1x_U007emarketing-85-220-0-5.png/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is4.mzstatic.com/image/thumb/Purple62/v4/ec/26/a7/ec26a73c-4bdb-ad7c-b6f6-bec576c6a971/AppIcon-1x_U007emarketing-85-220-0-5.png/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is3.mzstatic.com/image/thumb/Purple62/v4/ec/26/a7/ec26a73c-4bdb-ad7c-b6f6-bec576c6a971/AppIcon-1x_U007emarketing-85-220-0-5.png/100x100bb-85.png
+</im:image>
+<rights>© IRS</rights>
+<im:releaseDate label="January 20, 2011">2011-01-20T13:08:53-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/irs2go/id414113282?mt=8&uo=2"><img border="0" alt="Internal Revenue Service - IRS2Go artwork" src="http://is3.mzstatic.com/image/thumb/Purple62/v4/ec/26/a7/ec26a73c-4bdb-ad7c-b6f6-bec576c6a971/AppIcon-1x_U007emarketing-85-220-0-5.png/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/irs2go/id414113282?mt=8&uo=2">IRS2Go</a></b><br/> <a href="https://itunes.apple.com/us/developer/internal-revenue-service/id414113285?mt=8&amp;uo=2">Internal Revenue Service</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-finance/id6015?mt=8&uo=2">Finance</a> <br/> <b>Release Date:</b> January 20, 2011 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>Check your refund status, make a payment, find free tax preparation assistance, sign up for helpful tax tips, generate a login security code, and follow the latest news from the IRS - all in the latest version of IRS2Go.<br/><br/>Download IRS2Go and connect with the IRS whenever you want, wherever you are.<br/><br/>IRS2Go is the official app of the Internal Revenue Service.</font><br/> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> &#169; © IRS</font> </td> </tr> </table>
+</content>
+</entry>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="324684580" im:bundleId="com.spotify.client">
+https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8&uo=2
+</id>
+<title>Spotify Music - Spotify Ltd.</title>
+<summary>
+Spotify is the best way to listen to music on mobile or tablet. Search for any track, artist or album and listen for free. Make and share playlists. Build your biggest, best ever music collection. Get inspired with personal recommendations, and readymade playlists for just about everything. Listen absolutely free with ads, or get Spotify Premium. Free on mobile • Play any artist, album, or playlist in shuffle mode. Free on tablet • Play any song, any time. Premium features • Play any song, any time on any device: mobile, tablet or computer. • Enjoy ad-free music. • Listen offline. • Get better sound quality. Please note: This app features Nielsen’s audience measurement software which will allow you to contribute to market research, such as Nielsen’s Audio Measurement. If you don't want to participate, you can opt-out within the app settings. To learn more about our digital audience measurement products and your choices in regard to them, please visit http://www.nielsen.com/digitalprivacy for more information. Privacy policy: http://www.spotify.com/legal/privacy-policy/ Terms of use: https://www.spotify.com/legal/end-user-agreement/ Love Spotify? Like us on Facebook: http://www.facebook.com/spotify Follow us on Twitter: http://twitter.com/spotify
+</summary>
+<im:name>Spotify Music</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6011" term="Music" scheme="https://itunes.apple.com/us/genre/ios-music/id6011?mt=8&uo=2" label="Music"/>
+<im:artist href="https://itunes.apple.com/us/developer/spotify-ltd/id324684583?mt=8&uo=2">Spotify Ltd.</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is5.mzstatic.com/image/thumb/Purple128/v4/92/0b/80/920b8009-8c98-70a6-6b3a-f799bb78a809/AppIcon-1x_U007emarketing-85-220-0-5.png/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is4.mzstatic.com/image/thumb/Purple128/v4/92/0b/80/920b8009-8c98-70a6-6b3a-f799bb78a809/AppIcon-1x_U007emarketing-85-220-0-5.png/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is3.mzstatic.com/image/thumb/Purple128/v4/92/0b/80/920b8009-8c98-70a6-6b3a-f799bb78a809/AppIcon-1x_U007emarketing-85-220-0-5.png/100x100bb-85.png
+</im:image>
+<rights>© 2008–2017 Spotify Ltd.</rights>
+<im:releaseDate label="July 14, 2011">2011-07-14T04:22:37-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8&uo=2"><img border="0" alt="Spotify Ltd. - Spotify Music artwork" src="http://is3.mzstatic.com/image/thumb/Purple128/v4/92/0b/80/920b8009-8c98-70a6-6b3a-f799bb78a809/AppIcon-1x_U007emarketing-85-220-0-5.png/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8&uo=2">Spotify Music</a></b><br/> <a href="https://itunes.apple.com/us/developer/spotify-ltd/id324684583?mt=8&amp;uo=2">Spotify Ltd.</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-music/id6011?mt=8&uo=2">Music</a> <br/> <b>Release Date:</b> July 14, 2011 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>Spotify is the best way to listen to music on mobile or tablet. <br/><br/>Search for any track, artist or album and listen for free. Make and share playlists. Build your biggest, best ever music collection. <br/><br/>Get inspired with personal recommendations, and readymade playlists for just about everything.<br/><br/>Listen absolutely free with ads, or get Spotify Premium.<br/><br/>Free on mobile<br/>• Play any artist, album, or playlist in shuffle mode.<br/><br/>Free on tablet<br/>• Play any song, any time.<br/><br/>Premium features<br/>• Play any song, any time on any device: mobile, tablet or computer.<br/>• Enjoy ad-free music. <br/>• Listen offline. <br/>• Get better sound quality.<br/><br/>Please note: This app features Nielsen’s audience measurement software which will allow you to contribute to market research, such as Nielsen’s Audio Measurement. If you don&#39;t want to participate, you can opt-out within the app settings. To learn more about our digital audience measurement products and your choices in regard to them, please visit http://www.nielsen.com/digitalprivacy for more information.<br/><br/>Privacy policy: http://www.spotify.com/legal/privacy-policy/<br/>Terms of use: https://www.spotify.com/legal/end-user-agreement/<br/><br/>Love Spotify? <br/>Like us on Facebook: http://www.facebook.com/spotify <br/>Follow us on Twitter: http://twitter.com/spotify</font><br/> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> &#169; © 2008–2017 Spotify Ltd.</font> </td> </tr> </table>
+</content>
+</entry>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="1307961750" im:bundleId="com.netease.chiji">
+https://itunes.apple.com/us/app/rules-of-survival/id1307961750?mt=8&uo=2
+</id>
+<title>Rules of Survival - NetEase Games</title>
+<summary>
+Welcome to the arena of RULES OF SURVIVAL! This is a Battle Royale mobile game that has favored by 80 million of players worldwide. You will be one out of 120 unarmed players who get air dropped into a vast, deserted island. Only the last one survives. Attention! Your safe zone is diminishing. You are racing against poison gas spreading, enemies shooting, and ultimately death chasing. Collect weapons scattered, arm yourself to the teeth, wield your wisdom and tactics, and loot gear from the unlucky. You can either fight alone or team up to play wherever and whenever possible. Alert !!! It is not barely a survival game. You are writing RULES OF SURVIVAL! Come embark on a world-class life & death battle NOW! 【Game Feature】 Run or Fight! - Absolute fair play in a massive HD map. Last Man Stands! - Solo or team mode in a 120 survivor’s battle. Pick and Use! -Variety of firearms and accessories. Fast and Furious! - Drive vehicles across different terrains. Click “Help” in-game to contact us if you need help. Follow us to get exciting updates: Facebook: https://www.facebook.com/RulesofSurvival Twitter: @RoS_Mobile ; @RoS_JPofficial YouTube: https://www.youtube.com/c/RulesofSurvival Official Website: http://www.rulesofsurvivalgame.com/
+</summary>
+<im:name>Rules of Survival</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/rules-of-survival/id1307961750?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6014" term="Games" scheme="https://itunes.apple.com/us/genre/ios-games/id6014?mt=8&uo=2" label="Games"/>
+<im:artist href="https://itunes.apple.com/us/developer/netease-games/id874255382?mt=8&uo=2">NetEase Games</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is5.mzstatic.com/image/thumb/Purple128/v4/d4/8d/27/d48d273a-4aa1-cc0f-e9c3-819b04d3ad02/AppIcon-1x_U007emarketing-85-220-0-6.png/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is2.mzstatic.com/image/thumb/Purple128/v4/d4/8d/27/d48d273a-4aa1-cc0f-e9c3-819b04d3ad02/AppIcon-1x_U007emarketing-85-220-0-6.png/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is5.mzstatic.com/image/thumb/Purple128/v4/d4/8d/27/d48d273a-4aa1-cc0f-e9c3-819b04d3ad02/AppIcon-1x_U007emarketing-85-220-0-6.png/100x100bb-85.png
+</im:image>
+<rights>© Copyright @NetEase All Rights Reserved</rights>
+<im:releaseDate label="November 14, 2017">2017-11-14T04:28:48-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/rules-of-survival/id1307961750?mt=8&uo=2"><img border="0" alt="NetEase Games - Rules of Survival artwork" src="http://is5.mzstatic.com/image/thumb/Purple128/v4/d4/8d/27/d48d273a-4aa1-cc0f-e9c3-819b04d3ad02/AppIcon-1x_U007emarketing-85-220-0-6.png/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/rules-of-survival/id1307961750?mt=8&uo=2">Rules of Survival</a></b><br/> <a href="https://itunes.apple.com/us/developer/netease-games/id874255382?mt=8&amp;uo=2">NetEase Games</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-games/id6014?mt=8&uo=2">Games</a> <br/> <b>Release Date:</b> November 14, 2017 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>Welcome to the arena of RULES OF SURVIVAL! This is a Battle Royale mobile game that has favored by 80 million of players worldwide.<br/><br/>You will be one out of 120 unarmed players who get air dropped into a vast, deserted island. Only the last one survives. <br/><br/>Attention! Your safe zone is diminishing. You are racing against poison gas spreading, enemies shooting, and ultimately death chasing. <br/><br/>Collect weapons scattered, arm yourself to the teeth, wield your wisdom and tactics, and loot gear from the unlucky.<br/><br/>You can either fight alone or team up to play wherever and whenever possible. <br/><br/>Alert !!! It is not barely a survival game. You are writing RULES OF SURVIVAL!<br/>Come embark on a world-class life &amp; death battle NOW!<br/><br/>【Game Feature】<br/>Run or Fight!<br/>- Absolute fair play in a massive HD map.<br/>Last Man Stands!<br/>- Solo or team mode in a 120 survivor’s battle.<br/>Pick and Use!<br/>-Variety of firearms and accessories.<br/>Fast and Furious!<br/>- Drive vehicles across different terrains.<br/> <br/> <br/>Click “Help” in-game to contact us if you need help.<br/><br/>Follow us to get exciting updates:<br/>Facebook: https://www.facebook.com/RulesofSurvival<br/>Twitter: @RoS_Mobile ; @RoS_JPofficial <br/>YouTube: https://www.youtube.com/c/RulesofSurvival<br/>Official Website: http://www.rulesofsurvivalgame.com/</font><br/> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> &#169; © Copyright @NetEase All Rights Reserved</font> </td> </tr> </table>
+</content>
+</entry>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="368677368" im:bundleId="com.ubercab.UberClient">
+https://itunes.apple.com/us/app/uber/id368677368?mt=8&uo=2
+</id>
+<title>Uber - Uber Technologies, Inc.</title>
+<summary>
+Uber is a ridesharing app for fast, reliable rides in minutes—day or night. There’s no need to park or wait for a taxi or bus. With Uber, you just tap to request a ride, and it’s easy to pay with credit or cash in select cities. Whether you’re going to the airport or across town, there’s an Uber for every occasion. Uber is available in more than 500 cities worldwide—download the app and take your first trip today. Requesting your Uber is easy—here’s how it works: - Just open the app and tell us where you’re going. - The app uses your location so your driver knows where to pick you up. - You’ll see your driver’s picture, vehicle details, and can track their arrival on the map. - Payment can be made by credit card, cash in select cities, Apple Pay, PayPal, and more. - After the ride, you can rate your driver and provide feedback to help us improve the Uber experience. You’ll also get a receipt by email. Need a simple way to get from A to B quickly? Take uberX, our most affordable individual option. Want to save money on your ride? Take uberPOOL—you’ll travel with other riders headed your way and enjoy a lower fare. Want to elevate your experience? Take a high-end vehicle with UberBLACK. And there’s still more options—whether you’re traveling with a big group, or need a vehicle with accessibility features. See if Uber is available in your city at https://www.uber.com/cities Follow us on Twitter at https://twitter.com/uber Like us on Facebook at https://www.facebook.com/uber Have a question? Visit uber.com/help. Note: Continued use of GPS running in the background can dramatically decrease battery life.
+</summary>
+<im:name>Uber</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/uber/id368677368?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6003" term="Travel" scheme="https://itunes.apple.com/us/genre/ios-travel/id6003?mt=8&uo=2" label="Travel"/>
+<im:artist href="https://itunes.apple.com/us/developer/uber-technologies-inc/id368677371?mt=8&uo=2">Uber Technologies, Inc.</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is1.mzstatic.com/image/thumb/Purple128/v4/e7/7e/e3/e77ee3dc-b9de-326d-37b3-e7678c515c51/AppIcon-1x_U007emarketing-85-220-0-6.jpeg/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is5.mzstatic.com/image/thumb/Purple128/v4/e7/7e/e3/e77ee3dc-b9de-326d-37b3-e7678c515c51/AppIcon-1x_U007emarketing-85-220-0-6.jpeg/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is5.mzstatic.com/image/thumb/Purple128/v4/e7/7e/e3/e77ee3dc-b9de-326d-37b3-e7678c515c51/AppIcon-1x_U007emarketing-85-220-0-6.jpeg/100x100bb-85.png
+</im:image>
+<rights>© Uber Technologies Inc.</rights>
+<im:releaseDate label="May 20, 2010">2010-05-20T20:11:23-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/uber/id368677368?mt=8&uo=2"><img border="0" alt="Uber Technologies, Inc. - Uber artwork" src="http://is5.mzstatic.com/image/thumb/Purple128/v4/e7/7e/e3/e77ee3dc-b9de-326d-37b3-e7678c515c51/AppIcon-1x_U007emarketing-85-220-0-6.jpeg/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/uber/id368677368?mt=8&uo=2">Uber</a></b><br/> <a href="https://itunes.apple.com/us/developer/uber-technologies-inc/id368677371?mt=8&amp;uo=2">Uber Technologies, Inc.</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-travel/id6003?mt=8&uo=2">Travel</a> <br/> <b>Release Date:</b> May 20, 2010 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>Uber is a ridesharing app for fast, reliable rides in minutes—day or night. There’s no need to park or wait for a taxi or bus. With Uber, you just tap to request a ride, and it’s easy to pay with credit or cash in select cities.<br/><br/>Whether you’re going to the airport or across town, there’s an Uber for every occasion. Uber is available in more than 500 cities worldwide—download the app and take your first trip today.<br/><br/>Requesting your Uber is easy—here’s how it works:<br/>- Just open the app and tell us where you’re going.<br/>- The app uses your location so your driver knows where to pick you up.<br/>- You’ll see your driver’s picture, vehicle details, and can track their arrival on the map.<br/>- Payment can be made by credit card, cash in select cities, Apple Pay, PayPal, and more.<br/>- After the ride, you can rate your driver and provide feedback to help us improve the Uber experience. You’ll also get a receipt by email.<br/><br/>Need a simple way to get from A to B quickly? Take uberX, our most affordable individual option. <br/><br/>Want to save money on your ride? Take uberPOOL—you’ll travel with other riders headed your way and enjoy a lower fare. <br/><br/>Want to elevate your experience? Take a high-end vehicle with UberBLACK. And there’s still more options—whether you’re traveling with a big group, or need a vehicle with accessibility features.<br/><br/>See if Uber is available in your city at https://www.uber.com/cities<br/>Follow us on Twitter at https://twitter.com/uber<br/>Like us on Facebook at https://www.facebook.com/uber<br/><br/>Have a question? Visit uber.com/help.<br/><br/>Note: Continued use of GPS running in the background can dramatically decrease battery life.</font><br/> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> &#169; © Uber Technologies Inc.</font> </td> </tr> </table>
+</content>
+</entry>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="1232278996" im:bundleId="co.intermedialabs.hq">
+https://itunes.apple.com/us/app/hq-live-trivia-game-show/id1232278996?mt=8&uo=2
+</id>
+<title>HQ - Live Trivia Game Show - Intermedia Labs</title>
+<summary>
+HQ is the live trivia game show with cash prizes. Every day at 9pm EDT. Weekdays at 3pm EDT.
+</summary>
+<im:name>HQ - Live Trivia Game Show</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/hq-live-trivia-game-show/id1232278996?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6014" term="Games" scheme="https://itunes.apple.com/us/genre/ios-games/id6014?mt=8&uo=2" label="Games"/>
+<im:artist href="https://itunes.apple.com/us/developer/intermedia-labs/id1095766942?mt=8&uo=2">Intermedia Labs</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is5.mzstatic.com/image/thumb/Purple118/v4/2b/37/3a/2b373a71-1446-30b0-3736-a15b6d1d432d/HQAppIcon-1x_U007emarketing-85-220-0-5.png/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is2.mzstatic.com/image/thumb/Purple118/v4/2b/37/3a/2b373a71-1446-30b0-3736-a15b6d1d432d/HQAppIcon-1x_U007emarketing-85-220-0-5.png/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is2.mzstatic.com/image/thumb/Purple118/v4/2b/37/3a/2b373a71-1446-30b0-3736-a15b6d1d432d/HQAppIcon-1x_U007emarketing-85-220-0-5.png/100x100bb-85.png
+</im:image>
+<rights>© Intermedia Labs, Inc.</rights>
+<im:releaseDate label="August 25, 2017">2017-08-25T22:11:24-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/hq-live-trivia-game-show/id1232278996?mt=8&uo=2"><img border="0" alt="Intermedia Labs - HQ - Live Trivia Game Show artwork" src="http://is2.mzstatic.com/image/thumb/Purple118/v4/2b/37/3a/2b373a71-1446-30b0-3736-a15b6d1d432d/HQAppIcon-1x_U007emarketing-85-220-0-5.png/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/hq-live-trivia-game-show/id1232278996?mt=8&uo=2">HQ - Live Trivia Game Show</a></b><br/> <a href="https://itunes.apple.com/us/developer/intermedia-labs/id1095766942?mt=8&amp;uo=2">Intermedia Labs</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-games/id6014?mt=8&uo=2">Games</a> <br/> <b>Release Date:</b> August 25, 2017 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>HQ is the live trivia game show with cash prizes. Every day at 9pm EDT. Weekdays at 3pm EDT.</font><br/> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> &#169; © Intermedia Labs, Inc.</font> </td> </tr> </table>
+</content>
+</entry>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="530621395" im:bundleId="com.contextlogic.Wish">
+https://itunes.apple.com/us/app/wish-shopping-made-fun/id530621395?mt=8&uo=2
+</id>
+<title>Wish - Shopping Made Fun - ContextLogic Inc.</title>
+<summary>
+Wanna save big? Over 300 million smart & thrifty shoppers have discovered Wish! Our mobile mall app connects you to thousands of merchants, making it easy to shop fashion, shoes, electronics, kitchen gadgets & more directly from the makers! You pay 60-90% less what you’d pay for in a store! Wish also uses cool, new AI technology to find products just for you and to filter out the bad stuff. The more you use Wish, the better we get at showing you things you’ll love! Discover incredible new items and deals on Wish! Browse Through Millions of Classic men’s clothes Sizzling hot women’s fashion Chic shoes Affordable electronics Lifehacking kitchen gadgets Coveted kids toys Pinterest-worthy home decor Indie & unbranded makeup And much, much more! Save Big Wish items are 60-90% off from retail prices! We’re not into markups. Catch our daily sales Play Deal Dash to win additional savings Earn reward points & redeem for coupons Purchase with others to get an additional discount Buy with 100% Confidence Read trusted reviews & see customer photos to discover our best items! Pay securely with a credit card, Google Wallet, Apple Pay or PayPal. Not perfect? Easily return items and you’ll get a full refund. Shop around the World Wish ships worldwide! We offer customer support in English, Spanish, Portuguese, Japanese, French, Italian, German, Thai, Vietnamese, Turkish, Russian, Danish, Indonesian, Swedish, Norwegian, Dutch, Finnish, Greek, Polish, Romanian, Hungarian, Belarusian, Czech, Slovak, Slovenian, Lithuanian, Estonian, Latvian, Arabic, and Croatian. Your mobile mall is waiting for you! Download Wish to start shopping today!
+</summary>
+<im:name>Wish - Shopping Made Fun</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/wish-shopping-made-fun/id530621395?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6024" term="Shopping" scheme="https://itunes.apple.com/us/genre/ios-shopping/id6024?mt=8&uo=2" label="Shopping"/>
+<im:artist href="https://itunes.apple.com/us/developer/contextlogic-inc/id530621398?mt=8&uo=2">ContextLogic Inc.</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is2.mzstatic.com/image/thumb/Purple128/v4/25/de/8d/25de8d5d-65e6-6e75-a2ef-606a3c917643/AppIcon-1x_U007emarketing-85-220-0-9.png/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is4.mzstatic.com/image/thumb/Purple128/v4/25/de/8d/25de8d5d-65e6-6e75-a2ef-606a3c917643/AppIcon-1x_U007emarketing-85-220-0-9.png/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is2.mzstatic.com/image/thumb/Purple128/v4/25/de/8d/25de8d5d-65e6-6e75-a2ef-606a3c917643/AppIcon-1x_U007emarketing-85-220-0-9.png/100x100bb-85.png
+</im:image>
+<rights>© 2015 ContextLogic Inc.</rights>
+<im:releaseDate label="June 14, 2012">2012-06-14T16:29:05-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/wish-shopping-made-fun/id530621395?mt=8&uo=2"><img border="0" alt="ContextLogic Inc. - Wish - Shopping Made Fun artwork" src="http://is2.mzstatic.com/image/thumb/Purple128/v4/25/de/8d/25de8d5d-65e6-6e75-a2ef-606a3c917643/AppIcon-1x_U007emarketing-85-220-0-9.png/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/wish-shopping-made-fun/id530621395?mt=8&uo=2">Wish - Shopping Made Fun</a></b><br/> <a href="https://itunes.apple.com/us/developer/contextlogic-inc/id530621398?mt=8&amp;uo=2">ContextLogic Inc.</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-shopping/id6024?mt=8&uo=2">Shopping</a> <br/> <b>Release Date:</b> June 14, 2012 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>Wanna save big? Over 300 million smart &amp; thrifty shoppers have discovered Wish! Our mobile mall app connects you to thousands of merchants, making it easy to shop fashion, shoes, electronics, kitchen gadgets &amp; more directly from the makers! You pay 60-90% less what you’d pay for in a store! <br/> <br/>Wish also uses cool, new AI technology to find products just for you and to filter out the bad stuff. The more you use Wish, the better we get at showing you things you’ll love! Discover incredible new items and deals on Wish!<br/> <br/>Browse Through Millions of<br/>Classic men’s clothes<br/>Sizzling hot women’s fashion<br/>Chic shoes <br/>Affordable electronics <br/>Lifehacking kitchen gadgets <br/>Coveted kids toys <br/>Pinterest-worthy home decor <br/>Indie &amp; unbranded makeup <br/>And much, much more!<br/> <br/>Save Big <br/>Wish items are 60-90% off from retail prices! We’re not into markups. <br/>Catch our daily sales<br/>Play Deal Dash to win additional savings<br/>Earn reward points &amp; redeem for coupons<br/>Purchase with others to get an additional discount<br/> <br/>Buy with 100% Confidence <br/>Read trusted reviews &amp; see customer photos to discover our best items!<br/>Pay securely with a credit card, Google Wallet, Apple Pay or PayPal.<br/>Not perfect? Easily return items and you’ll get a full refund.<br/> <br/>Shop around the World <br/>Wish ships worldwide!<br/>We offer customer support in English, Spanish, Portuguese, Japanese, French, Italian, German, Thai, Vietnamese, Turkish, Russian, Danish, Indonesian, Swedish, Norwegian, Dutch, Finnish, Greek, Polish, Romanian, Hungarian, Belarusian, Czech, Slovak, Slovenian, Lithuanian, Estonian, Latvian, Arabic, and Croatian.<br/> <br/>Your mobile mall is waiting for you! Download Wish to start shopping today!</font><br/> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> &#169; © 2015 ContextLogic Inc.</font> </td> </tr> </table>
+</content>
+</entry>
+<entry>
+<updated>2018-02-07T14:11:21-07:00</updated>
+<id im:id="1335097700" im:bundleId="com.triviagames.cashshow">
+https://itunes.apple.com/us/app/cash-show-win-real-cash/id1335097700?mt=8&uo=2
+</id>
+<title>Cash Show - Win Real Cash! - Zentertain Ltd.</title>
+<summary>
+Cash Show is a live trivia show game with real money prizes! You just need to answer questions and you can win BIG MONEY! Enrich your mind and win big prizes with your knowledge! Daily Cash Shows! * Show opens twice a day at 12:30 PM PST and 6:30 PM PST. * There are twelve multiple choice questions for every show, which cover topics like science, art, sports, entertainment and many more! * You will have ten seconds to answer each question. Once you reach prize questions, you can win REAL money from every question with a correct answer! Answer all prize questions right and you will win a big PRIZE! * If more than one player makes it to the end, they will split the prize. Otherwise, the winner will bring all the money home! Come and win BIG MONEY everyday! The Cash Show is ready! Show us what you got!
+</summary>
+<im:name>Cash Show - Win Real Cash!</im:name>
+<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/cash-show-win-real-cash/id1335097700?mt=8&uo=2"/>
+<im:contentType term="Application" label="Application"/>
+<category im:id="6014" term="Games" scheme="https://itunes.apple.com/us/genre/ios-games/id6014?mt=8&uo=2" label="Games"/>
+<im:artist href="https://itunes.apple.com/us/developer/zentertain-ltd/id371114041?mt=8&uo=2">Zentertain Ltd.</im:artist>
+<im:price amount="0.00000" currency="USD">Get</im:price>
+<im:image height="53">
+http://is4.mzstatic.com/image/thumb/Purple128/v4/87/fc/56/87fc56d5-fc10-6ab4-48c7-d2b0c4b16357/AppIcon-1x_U007emarketing-85-220-6.png/53x53bb-85.png
+</im:image>
+<im:image height="75">
+http://is3.mzstatic.com/image/thumb/Purple128/v4/87/fc/56/87fc56d5-fc10-6ab4-48c7-d2b0c4b16357/AppIcon-1x_U007emarketing-85-220-6.png/75x75bb-85.png
+</im:image>
+<im:image height="100">
+http://is5.mzstatic.com/image/thumb/Purple128/v4/87/fc/56/87fc56d5-fc10-6ab4-48c7-d2b0c4b16357/AppIcon-1x_U007emarketing-85-220-6.png/100x100bb-85.png
+</im:image>
+<rights>© Zentertain Ltd.</rights>
+<im:releaseDate label="January 19, 2018">2018-01-19T09:57:08-07:00</im:releaseDate>
+<content type="html">
+<table border="0" width="100%"> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tr valign="top" align="left"> <td align="center" width="166" valign="top"> <a href="https://itunes.apple.com/us/app/cash-show-win-real-cash/id1335097700?mt=8&uo=2"><img border="0" alt="Zentertain Ltd. - Cash Show - Win Real Cash! artwork" src="http://is5.mzstatic.com/image/thumb/Purple128/v4/87/fc/56/87fc56d5-fc10-6ab4-48c7-d2b0c4b16357/AppIcon-1x_U007emarketing-85-220-6.png/100x100bb-85.png" /></a> </td> <td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td> <td width="95%"> <b><a href="https://itunes.apple.com/us/app/cash-show-win-real-cash/id1335097700?mt=8&uo=2">Cash Show - Win Real Cash!</a></b><br/> <a href="https://itunes.apple.com/us/developer/zentertain-ltd/id371114041?mt=8&amp;uo=2">Zentertain Ltd.</a> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"> <br/> <b>Genre:</b> <a href="https://itunes.apple.com/us/genre/ios-games/id6014?mt=8&uo=2">Games</a> <br/> <b>Release Date:</b> January 19, 2018 </font> </td> </tr> </table> </td> </tr> <tr> <td> <font size="2" face="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><br/>Cash Show is a live trivia show game with real money prizes! You just need to answer questions and you can win BIG MONEY! Enrich your mind and win big prizes with your knowledge! Daily Cash Shows! <br/><br/>* Show opens…
